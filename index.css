@@ -27,8 +27,8 @@
     }
 
     .booking-page-app-name{
-        margin-left: 20%;
-        margin-right: 20%;
+        margin-left: 22%;
+        margin-right: 22%;
         align-items: center;
         font-family: cursive;
         color: white;
@@ -45,7 +45,7 @@
     .booking-page-heading-content{
         text-align: center;
         margin-top: 20%;
-        font-size: large;
+        font-size: small;
     }
 
     .booking-page-content-two{
@@ -107,41 +107,36 @@
         display: flex;
         flex-direction: row;
         background-color: #c334eb;
-        margin-top: 60%;
+        margin-top: 30%;
     } 
 
     .icon-container{
-        margin-right: 15%;
-        margin-left: 10%;
+        margin-right: 6%;
+        margin-left: 9%;
     }
 
     .booking-page-footer-home{
         color: black;
-        margin-left: 0%;
         font-size: xx-large;
     }
 
     .booking-page-footer-language{
         color: black;
-        margin-left: 0%;
         font-size: xx-large;
     }
 
     .booking-page-footer-location{
         color: black;
-        margin-left: 0%;
         font-size: xx-large;
 }
 
 .booking-page-footer-profile{
     color: black;
-    margin-left: 0%;
     font-size: xx-large;
 }
 
 .booking-page-footer-icon-name{
-    margin-bottom: 5%;
-    
+   margin-bottom: 3%;   
 }
 
 
