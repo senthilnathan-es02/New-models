@@ -3,7 +3,6 @@
         padding: 0%;
         margin: 0%;
         overflow-x: hidden;
-        overflow-y: hidden;
     }
 
     .booking-page-container{
@@ -22,14 +21,14 @@
 
     .booking-page-icon{
         color: black;
-        margin-left: 5%;
+        margin-left: 7%;
         margin-top: 1%;
         margin-top: 5%;
     }
 
     .booking-page-app-name{
-        margin-left: 22%;
-        margin-right: 26%;
+        margin-left: 20%;
+        margin-right: 20%;
         align-items: center;
         font-family: cursive;
         color: white;
@@ -108,7 +107,7 @@
         display: flex;
         flex-direction: row;
         background-color: #c334eb;
-        margin-top: 35%;
+        margin-top: 37%;
     } 
 
     .icon-container{
@@ -134,12 +133,12 @@
         font-size: xx-large;
 }
 
-.booking-page-footer-profile{
-    color: black;
+    .booking-page-footer-profile{
+          color: black;
     font-size: xx-large;
 }
 
-.booking-page-footer-icon-name{
+    .booking-page-footer-icon-name{
    margin-bottom: 3%; 
    color:black;  
 }
